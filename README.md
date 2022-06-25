@@ -1,6 +1,4 @@
 # Projects
-<h1>Welcome! My name is Tameshia! <br/><a href="https://tameshia.altervista.org">Aspiring Web Developer &</a>
-  <a href="https://linkedin.com/in/tameshia-scruggs">Cybersecurity Professional</a>
 
 
 <h2>📺 Web Development Projects:</h2>
