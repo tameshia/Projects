@@ -4,7 +4,7 @@
 <h2>📺 Web Development Projects:</h2>
 
 - [Web Development Projects 2022](https://tameshia.altervista.org/)
-- [Web Development Projects 2020]([https://tameshia.altervista.org/OldHTML/index2130.html/)  
+- [Web Development Projects 2020](https://tameshia.altervista.org/OldHTML/index2130.html/)  
   
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
