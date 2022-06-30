@@ -7,7 +7,7 @@
 - [Web Development Projects 2020](https://tameshia.altervista.org/OldHTML/index2130.html)  
   
   
-<h2>👨‍💻 Cybersecurity Labs:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
 - <b>Assessing Common Attack Vectors</b>
@@ -23,8 +23,7 @@
   - [Implement an Antivirus Policy](https://github.com/tameshia/Perform-and-Injection-Attack)
   - [Apply a Windows Security Baseline](https://github.com/tameshia/Perform-and-Injection-Attack)
 - <b>Implementing Security Monitoring & Logging</b>
-  - [Identify Failed Logon Attempts on Windows Systems](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systes)
-  - [Montor Network Activity with Snort](https://github.com/tameshia/Monitor-Network-Activity-with-Snort)
+  - [Identify Failed Logon Attempts on Windows Systems](https://github.com/tameshia/Identify-failed-Injection-Attack)
 - <b>Configuring Backup and Recovery Functions</b>
   - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
 - <b>Performing Incident Response & Forensic Analysis</b>
