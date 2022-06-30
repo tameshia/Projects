@@ -23,7 +23,7 @@
   - [Implement an Antivirus Policy](https://github.com/tameshia/Perform-and-Injection-Attack)
   - [Apply a Windows Security Baseline](https://github.com/tameshia/Perform-and-Injection-Attack)
 - <b>Implementing Security Monitoring & Logging</b>
-  - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
+  - [Identify Failed Logon Attempts on Windows Systems](https://github.com/tameshia/Perform-and-Injection-Attack)
 - <b>Configuring Backup and Recovery Functions</b>
   - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
 - <b>Performing Incident Response & Forensic Analysis</b>
