@@ -19,7 +19,7 @@
 - <b>Using Encryption to Enhance Confidentiality & Integrity</b>
   - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
 - <b>Implementing an IT Security Policy</b>
-  - [Implement a Password Protection Policy](https://github.com/tameshia/Perform-and-Injection-Attack)
+  - [Implement a Password Protection Policy](https://github.com/tameshia/Implement-a-Password-Protection-Policy)
   - [Implement an Antivirus Policy](https://github.com/tameshia/Perform-and-Injection-Attack)
   - [Apply a Windows Security Baseline](https://github.com/tameshia/Perform-and-Injection-Attack)
 - <b>Implementing Security Monitoring & Logging</b>
