@@ -24,7 +24,7 @@
   - [Apply a Windows Security Baseline](https://github.com/tameshia/Perform-and-Injection-Attack)
 - <b>Implementing Security Monitoring & Logging</b>
   - [Identify Failed Logon Attempts on Windows Systems](https://github.com/tameshia/Identify-failed-Logon-Attempts-on-Windows-Systems)
-  - [Monitoring Network Activity with Snort](https://github.com/tameshia/Monitoring-Network-Activity-with-Snort)
+  - [Monitor Network Activity with Snort](https://github.com/tameshia/Monitor-Network-Activity-with-Snort)
 - <b>Configuring Backup and Recovery Functions</b>
   - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
 - <b>Performing Incident Response & Forensic Analysis</b>
