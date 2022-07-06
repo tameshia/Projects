@@ -27,7 +27,9 @@
   - [Identify Failed Logon Attempts on Windows Systems](https://github.com/tameshia/Identify-failed-Logon-Attempts-on-Windows-Systems)
   - [Monitor Network Activity with Snort](https://github.com/tameshia/Monitor-Network-Activity-with-Snort)
 - <b>Configuring Backup and Recovery Functions</b>
-  - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
+  - [Install Windows Server Backup](https://github.com/tameshia/Install-Windows-Server-Backup)
+  - [Configure a System State Backup](https://github.com/tameshia/Configure-a-System-State-Backup)
+  - [Restore from a System State Backup](https://github.com/tameshia/Restore-from-a-System-State-Backup)
 - <b>Performing Incident Response & Forensic Analysis</b>
   - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
