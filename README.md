@@ -15,7 +15,8 @@
 - <b>Performing Packet Capture & Traffic Analysis</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Applying User Authentication & Access Controls</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Create Users and Security Groups](https://github.com/tameshia/Create-Users-and-Security-Groups)
+  - [Create Folders and Configure Security Permissions](https://github.com/tameshia/Create-Folders-and-Configure-Security-Permissions)
 - <b>Using Encryption to Enhance Confidentiality & Integrity</b>
   - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
 - <b>Implementing an IT Security Policy</b>
