@@ -7,7 +7,7 @@
 - [Web Development Projects 2020](https://tameshia.altervista.org/OldHTML/index2130.html)  
   
   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Labs:</h2>
 
 
 - <b>Assessing Common Attack Vectors</b>
