@@ -16,8 +16,8 @@
   - pending
 - <b>Implementing an IT Security Policy</b>
   - [Implement a Password Protection Policy](https://github.com/tameshia/Implement-a-Password-Protection-Policy)
-  - [Implement an Antivirus Policy](https://github.com/tameshia/Perform-and-Injection-Attack)
-  - [Apply a Windows Security Baseline](https://github.com/tameshia/Perform-and-Injection-Attack)
+  - [Implement an Antivirus Policy](https://github.com/tameshia/Implement-an-Antivirus-Policy)
+  - [Apply a Windows Security Baseline](https://github.com/tameshia/Apply-a-Windows-Security-Baseline)
 - <b>Implementing Security Monitoring & Logging</b>
   - [Identify Failed Logon Attempts on Windows Systems](https://github.com/tameshia/Identify-failed-Logon-Attempts-on-Windows-Systems)
   - [Monitor Network Activity with Snort](https://github.com/tameshia/Monitor-Network-Activity-with-Snort)
@@ -26,6 +26,6 @@
   - [Configure a System State Backup](https://github.com/tameshia/Configure-a-System-State-Backup)
   - [Restore from a System State Backup](https://github.com/tameshia/Restore-from-a-System-State-Backup)
 - <b>Performing Incident Response & Forensic Analysis</b>
-  - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
+  - [Perform an Injection Attack](https://github.com/tameshia/Perform-an-Injection-Attack)
 
 
