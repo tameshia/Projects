@@ -12,8 +12,7 @@
 - <b>Applying User Authentication & Access Controls</b>
   - [Create Users and Security Groups](https://github.com/tameshia/Create-Users-and-Security-Groups)
   - [Create Folders and Configure Security Permissions](https://github.com/tameshia/Create-Folders-and-Configure-Security-Permissions)
-- <b>Using Encryption to Enhance Confidentiality & Integrity</b>
-  - pending
+
 - <b>Implementing an IT Security Policy</b>
   - [Implement a Password Protection Policy](https://github.com/tameshia/Implement-a-Password-Protection-Policy)
   - [Implement an Antivirus Policy](https://github.com/tameshia/Implement-an-Antivirus-Policy)
