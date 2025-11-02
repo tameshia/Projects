@@ -28,3 +28,8 @@
   - [Perform an Injection Attack]()
 
 
+<h2>☁️ AWS Cloud Fundamentals Labs</h2>
+
+- <b>Setting up a Virtual Server</b>
+  -
+
