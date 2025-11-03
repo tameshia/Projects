@@ -29,7 +29,7 @@
 
 
 
-### ☁️ AWS Cloud Fundamentals Labs
+<h2> ☁️ AWS Cloud Fundamentals Labs</h2> 
 
 - **Identity and Access Management (IAM)**
   - [Create an IAM Admin User and Group](https://github.com/tameshia/aws-fundamentals-lab/blob/main/phases/phase1_iam.md)
