@@ -28,8 +28,26 @@
   - [Perform an Injection Attack]()
 
 
-<h2>☁️ AWS Cloud Fundamentals Labs</h2>
+### ☁️ AWS Cloud Fundamentals Labs
 
-- <b>Setting up a Virtual Server</b>
-  -
+- **Identity and Access Management (IAM)**
+  - [Create an IAM Admin User and Group](https://github.com/tameshia/aws-fundamentals-lab/blob/main/phases/phase1_iam.md)
+  - [Enable MFA and Password Policies](https://github.com/tameshia/aws-fundamentals-lab/blob/main/phases/phase1_iam.md#tasks)
+  
+- **Compute (EC2)**
+  - [Launch and Connect to an EC2 Instance](https://github.com/tameshia/aws-fundamentals-lab/blob/main/phases/phase2_ec2.md)
+  - [Configure Key Pairs and Security Groups](https://github.com/tameshia/aws-fundamentals-lab/blob/main/phases/phase2_ec2.md#tasks)
+  
+- **Storage (S3)**
+  - [Create a Secure S3 Bucket](https://github.com/tameshia/aws-fundamentals-lab/blob/main/phases/phase3_s3.md)
+  - [Enable Encryption and Versioning](https://github.com/tameshia/aws-fundamentals-lab/blob/main/phases/phase3_s3.md#tasks)
+  
+- **Networking (VPC)**
+  - [Explore Default VPC and Subnets](https://github.com/tameshia/aws-fundamentals-lab/blob/main/phases/phase4_vpc.md)
+  - [Create a Web Security Group](https://github.com/tameshia/aws-fundamentals-lab/blob/main/phases/phase4_vpc.md#tasks)
+  
+- **Monitoring & Billing**
+  - [Set Up CloudTrail and CloudWatch](https://github.com/tameshia/aws-fundamentals-lab/blob/main/phases/phase5_monitoring.md)
+  - [Create a Budget and Alarm for Cost Tracking](https://github.com/tameshia/aws-fundamentals-lab/blob/main/phases/phase5_monitoring.md#tasks)
 
+🪴 [View Full Lab Guide →](https://github.com/tameshia/aws-fundamentals-lab/blob/main/README.md)
