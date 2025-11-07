@@ -1,7 +1,5 @@
 # Projects
 
-# Projects
-
 ## ☁️ AWS Skill Builder — Foundations Recertification Projects (Most Recent)
 
 ### 🖥 Computing Solutions (EC2 Lab)
