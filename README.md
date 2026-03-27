@@ -2,7 +2,7 @@
 
 ## ☁️ AWS Skill Builder — Foundations Recertification Projects (Most Recent)
 
-### 🖥 Computing Solutions (EC2 Lab)
+/*### 🖥 Computing Solutions (EC2 Lab)
 A hands-on Amazon EC2 project recreated from the AWS Skill Builder Cloud Foundations training.  
 This project walks through exploring EC2 instance types, accessing instance metadata, using EC2 Instance Connect, viewing logs, modifying instance state, and understanding pricing behavior.
 
@@ -20,7 +20,7 @@ This project walks through exploring EC2 instance types, accessing instance meta
   - Reviewing pricing & capacity  
 
 ---
-
+*/
 
 
 
